@@ -1,0 +1,4 @@
+#Sun Sep 02 18:03:35 BRT 2018
+base.0=C\:\\Users\\allef\\Desktop\\Nova pasta\\sweet-alert-dialog\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
